@@ -19,5 +19,8 @@ After the image is configured, you can stop or restart the container easily with
 
 To access Home Assistant in Browser, go to http://localhost:8123/
 
+Note:  To add Home Assistant Community Store (HACS) add-ons are not natively available for containerized installations. To get HACS into the container, follow https://hacs.xyz/docs/setup/download/
+
+
 
 
